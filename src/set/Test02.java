@@ -73,6 +73,7 @@ public static void main(String[] args) {
 			for(i=0;i<name.size();i++) {
 				System.out.println("이름: "+name.get(i));
 				System.out.println("연락처: "+phone.get(i));
+				System.out.println();
 			}
 			
 			
